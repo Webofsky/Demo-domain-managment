@@ -1,0 +1,31 @@
+POST http://localhost:4000/login
+Content-Type: application/json
+
+{
+    "login" : "Admin",
+    "password": "Dupa"
+}
+
+###
+
+POST http://localhost:4000/token
+Content-Type: application/json
+
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiU3p5bW9uIiwiaWF0IjoxNzE3NDEyOTIwfQ.8e_ONXaElG6MSpRvhX3BtnxS5bc2vqO9boszTp6n2X0"
+}
+
+###
+
+GET http://localhost:3000/details
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiQWRtaW4iLCJpYXQiOjE3MTczMTE5ODAsImV4cCI6MTcxNzMxMTk5NX0.qzOYon6VFRLEj5F2acXvCwmxwZtI1rHCbXPTMcsnG6E
+
+###
+
+DELETE http://localhost:4000/logout
+Content-Type: application/json
+
+{
+    "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiU3p5bW9uIiwiaWF0IjoxNzE3NDEyOTIwfQ.8e_ONXaElG6MSpRvhX3BtnxS5bc2vqO9boszTp6n2X0"
+}
+

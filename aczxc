@@ -1,0 +1,282 @@
+[33mcommit b8c0fdf7cd5f359600e21977e18e55bd4d3463ca[m[33m ([m[1;36mHEAD -> [m[1;32mdemo-main[m[33m, [m[1;31mdemo/main[m[33m)[m
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Wed Sep 4 10:55:47 2024 +0200
+
+    fix form
+
+[33mcommit f9c6c4ee6607f1b6a8a279ec95a396ee8c2ce056[m
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Wed Aug 28 19:36:38 2024 +0200
+
+    init
+
+[33mcommit f8abc15928d2549a958c31b6c1197ebc55011d35[m
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Tue Aug 27 16:06:54 2024 +0200
+
+    init
+
+[33mcommit 4325370996c2ab17c89d39074f4413c7965c32a2[m
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Tue Aug 27 16:04:46 2024 +0200
+
+    init
+
+[33mcommit 647a87272b21154fc8df3f96786eb1a48702c456[m
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Tue Aug 27 16:02:45 2024 +0200
+
+    init
+
+[33mcommit e06fe5de3a0ddda0610f208b53df8bddfc798005[m
+Merge: 890c8bc 7fc4310
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Sun Aug 25 19:18:54 2024 +0200
+
+    Merge branch 'main' of https://github.com/Webofsky/Webofsky-Admin-Panel
+
+[33mcommit 890c8bc5d692a4a2fb76f97a715699ea2b72024e[m
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Sun Aug 25 19:18:01 2024 +0200
+
+    init
+
+[33mcommit fb7a055ed27d9046f6488e3784081adda3224763[m
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Sun Aug 25 19:10:34 2024 +0200
+
+    init
+
+[33mcommit 7fc4310360c43dcfeec5c10fe0a391d6626f3f1a[m
+Author: Szymon <szymon.gawlowski@vp.pl>
+Date:   Wed Aug 7 07:17:48 2024 +0200
+
+    fix request to /task/:id
+
+[33mcommit b53c3fd92ac329d09a3042a7fd7d71037eb3eca7[m
+Author: Szymon <szymon.gawlowski@vp.pl>
+Date:   Tue Aug 6 21:25:26 2024 +0200
+
+    majewski
+
+[33mcommit 513a9871b6a021b6a1e747e60e97273fe37731a4[m
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Tue Aug 6 19:00:35 2024 +0200
+
+    init
+
+[33mcommit a78111412d3dda59bafd10d47d5097d86e6e2fee[m
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Tue Aug 6 18:35:03 2024 +0200
+
+    init
+
+[33mcommit 51d3630a9b184d2ff392b99b7ba4cbcac6b58eb8[m
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Tue Aug 6 15:03:22 2024 +0200
+
+    final
+
+[33mcommit 4b7a58a4fe95596395177122ffa3bd52974a6ed1[m
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Tue Aug 6 14:33:49 2024 +0200
+
+    init
+
+[33mcommit 8cf7c51d13c1c98a4d7534115cc13662e2436610[m
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Tue Aug 6 13:04:18 2024 +0200
+
+    init
+
+[33mcommit d37f141df131df982ea9660cecfc5e4449a9ff1c[m
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Tue Aug 6 13:00:31 2024 +0200
+
+    init
+
+[33mcommit 4075d1e9bcf20b96ef9fde7ec03975d0a572c7d1[m
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Tue Aug 6 12:46:34 2024 +0200
+
+    init
+
+[33mcommit 0e66ad6093d754f4437c2dbc57b38396bdd05980[m
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Tue Aug 6 12:44:13 2024 +0200
+
+    init
+
+[33mcommit 9b915922a6c8b177c1297bcbd6e7799d2e0e2bd7[m
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Tue Aug 6 12:05:48 2024 +0200
+
+    init
+
+[33mcommit 6d549676186a106b4c23dc0d6b1e68e03f8e33ba[m
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Tue Aug 6 11:59:16 2024 +0200
+
+    init
+
+[33mcommit ab3ab19a5a647b403b6f7f96b27249f011bf0c10[m
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Tue Aug 6 11:45:57 2024 +0200
+
+    init
+
+[33mcommit 8ac927586f059df9a27e6219d38958e36fc3d678[m
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Tue Aug 6 10:34:29 2024 +0200
+
+    init
+
+[33mcommit b65c5c953aac4ea2de9ff919cd9198d971a42508[m
+Author: Szymon <szymon.gawlowski@vp.pl>
+Date:   Tue Aug 6 08:13:54 2024 +0200
+
+    init
+
+[33mcommit 4dde08571b0095d195f5349c867996be1e483af3[m
+Author: Szymon <szymon.gawlowski@vp.pl>
+Date:   Tue Aug 6 08:09:16 2024 +0200
+
+    init
+
+[33mcommit b22b62c60411fa66eb17eef1a1dd1486f0a20f5c[m
+Author: Szymon <szymon.gawlowski@vp.pl>
+Date:   Tue Aug 6 08:07:19 2024 +0200
+
+    init
+
+[33mcommit 2787e1ef7a327cd63bf1a8c5804ae3043007065c[m
+Author: Szymon <szymon.gawlowski@vp.pl>
+Date:   Tue Aug 6 07:53:27 2024 +0200
+
+    init
+
+[33mcommit a3e0d1a087476cfca3d9c97cc1f932fccae187b9[m
+Author: Szymon <szymon.gawlowski@vp.pl>
+Date:   Mon Aug 5 23:36:35 2024 +0200
+
+    init
+
+[33mcommit 806e213fc32100071fb346a8342bfd9dd937a27d[m
+Author: Szymon <szymon.gawlowski@vp.pl>
+Date:   Mon Aug 5 23:23:44 2024 +0200
+
+    init
+
+[33mcommit 77bf467f97340d4ba3ae3be33d83e97d80a99185[m
+Author: Szymon <szymon.gawlowski@vp.pl>
+Date:   Mon Aug 5 23:08:40 2024 +0200
+
+    init
+
+[33mcommit 19f1ec9e79e0e3ea2a6014a24282192c9e25e3e4[m
+Author: Szymon <szymon.gawlowski@vp.pl>
+Date:   Mon Aug 5 23:05:24 2024 +0200
+
+    init
+
+[33mcommit 2b498e6ae85ed2f02bf129fca7bb3c4aa2664f69[m
+Author: Szymon <szymon.gawlowski@vp.pl>
+Date:   Mon Aug 5 22:32:12 2024 +0200
+
+    init
+
+[33mcommit 50e26615e68fab6ef523b209bbd0829b1836bd22[m
+Author: Szymon <szymon.gawlowski@vp.pl>
+Date:   Mon Aug 5 22:27:54 2024 +0200
+
+    init
+
+[33mcommit 2d7fc927ee061632b8407d85880234f1bf204890[m
+Author: Szymon <szymon.gawlowski@vp.pl>
+Date:   Mon Aug 5 22:24:28 2024 +0200
+
+    init
+
+[33mcommit dcf2b2f4080ded178e4b72bdd32049ed44770e8b[m
+Author: Szymon <szymon.gawlowski@vp.pl>
+Date:   Mon Aug 5 22:19:58 2024 +0200
+
+    init
+
+[33mcommit 5857cd991b87c24c9b7a50588ca755807db2286b[m
+Author: Szymon <szymon.gawlowski@vp.pl>
+Date:   Mon Aug 5 22:01:39 2024 +0200
+
+    initial
+
+[33mcommit 9cc28743d77f5e8d4812466c916db7a3371551f3[m
+Author: Szymon <szymon.gawlowski@vp.pl>
+Date:   Mon Aug 5 21:54:15 2024 +0200
+
+    initial
+
+[33mcommit a78acc6ceb282bd350683fffe4e9ce4dde67811c[m
+Author: Szymon <szymon.gawlowski@vp.pl>
+Date:   Mon Aug 5 21:41:13 2024 +0200
+
+    initial commit
+
+[33mcommit bda6eb7e07ab2e3c2372f610492ca75b54d4f3be[m
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Mon Aug 5 19:58:48 2024 +0200
+
+    init
+
+[33mcommit d4b25e39d9d1b18e3c0121b9c296d4e17213bd8a[m
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Mon Aug 5 19:52:14 2024 +0200
+
+    iinit
+
+[33mcommit d60931c434059f44ffa9274fb9dbd4b906c9df6c[m
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Mon Aug 5 16:17:25 2024 +0200
+
+    initial
+
+[33mcommit 1ce333395aca383975aa943a8182118d062d11f9[m
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Sun Jul 28 13:48:09 2024 +0200
+
+    init
+
+[33mcommit 398fdf4063e2a2443b57079be498f43a328b9c8e[m
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Sun Jul 14 18:07:40 2024 +0200
+
+    init
+
+[33mcommit c80544bd154e6026c3a71fde53659c4d9cf67372[m
+Author: Szymon <szymon.gawlowski@vp.pl>
+Date:   Thu Jul 11 22:43:23 2024 +0200
+
+    initial
+
+[33mcommit 8b8ac33a83d1c1bf465c32d60babe4a0f35f1a6f[m
+Author: Szymon <szymon.gawlowski@vp.pl>
+Date:   Sun Jun 30 21:30:58 2024 +0200
+
+    adding req/res to Hosting component
+
+[33mcommit b80de5f4de75412984589deb16981067fbb68c3e[m
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Sun Jun 30 11:05:46 2024 +0200
+
+    initial commit
+
+[33mcommit 5dfe237d9e1e202aad0ba3e22aa2aece78fa1e61[m
+Author: unknown <szymon.gawlowski@vp.pl>
+Date:   Fri Jun 28 13:26:05 2024 +0200
+
+    initial
+
+[33mcommit 014434741e60afcaf11e4e013fc3e8fd97f14930[m
+Author: HotMommy45yo <96960605+HotMommy45yo@users.noreply.github.com>
+Date:   Fri Jun 28 11:57:24 2024 +0200
+
+    Initial commit
